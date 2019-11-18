@@ -7,8 +7,13 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
     
-    <RelativeLayout
-        android:layout_width=""
-        android:layout_height=""
+    <view class="androidx.appcompat.app.AlertController$RecycleListView"
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+
+
 
 </RelativeLayout>
