@@ -22,8 +22,8 @@
         android:text="02 Nov, 2019"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:layout_margin="4dp"
-        android:textSize="10sp"
+        android:layout_marginRight="4dp"
+        android:textSize="15sp"
         android:textColor="#8F8F8F"
         />
 
